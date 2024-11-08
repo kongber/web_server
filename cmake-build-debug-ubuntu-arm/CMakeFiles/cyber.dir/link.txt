@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cyber.dir/main.cpp.o CMakeFiles/cyber.dir/src/Epool.cpp.o CMakeFiles/cyber.dir/src/InetAddress.cpp.o CMakeFiles/cyber.dir/src/Socket.cpp.o -o cyber   -L/tmp/tmp.fqxWz3thZF/dependence/ares/lib  -Wl,-rpath,/tmp/tmp.fqxWz3thZF/dependence/ares/lib -lcares
